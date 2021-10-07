@@ -8,6 +8,7 @@
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/ordukar)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetfatihdata" alt="mehmetfatihdata" /> </p>
+
 ## 💻 Data Visualization
 
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="50"/> </a>
