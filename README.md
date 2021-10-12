@@ -37,6 +37,6 @@
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="50"/> </a>
 </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mehmetfatihdata&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetfatihdata&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetfatihdata&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=mehmetfatihdata&theme=chartreuse-dark" alt="my github stats" width="30%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetfatihdata&theme=chartreuse-dark" alt="my commit status" width="30%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetfatihdata&theme=chartreuse-dark&layout=compact" alt="languages" width="31%" > </p>
