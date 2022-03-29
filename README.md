@@ -1,6 +1,6 @@
 ## Hi there! I'm Mehmet Fatih...:wave:
 
-- :telescope: I’m currently working on Data Analysis and Machine Lean ...ning (Matplotlib | Seaborn | Pandas's Own Visualization Features |ML|DL|NLP|Cloud)
+- :telescope: I’m currently working on Data Analysis and Machine Learning (Matplotlib | Seaborn | Pandas's Own Visualization Features |ML|DL|NLP|Cloud)
 - :seedling: I’m currently learning Machine Learning with Python ...
 - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
 ## :man::woman: Social
