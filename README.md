@@ -2,7 +2,7 @@
 
 - :telescope: I’m currently working on Data Analysis and Machine Learning (Matplotlib | Seaborn | Pandas's Own Visualization Features |ML|DL|NLP|Cloud)
 - :seedling: I’m currently learning Machine Learning with Python ...
-- :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
+- :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer.
 ## :man::woman: Social
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-fatih-data/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:ordukar@gmail.com)
